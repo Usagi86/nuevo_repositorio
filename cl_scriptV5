@@ -1,10 +1,10 @@
 /**************************
 	CloneScript Version 5
 	11/11/2015
-	Author: +
+	Author: 
 **************************/
 
-
+/*
 //++ Anti-Kick:
 rcFC.send("700","750"); BL.pingSent=new Date().getMilliseconds();
 var ver = setInterval('rcFC.send("700","750")',600000);
@@ -368,3 +368,4 @@ document.getElementById("CI").style.height="50px";
 //Fin_del_generador_de_texto.
 
 //FIN DEL SCRIPT.
+*/
